@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+header {
+    background-color: aqua;
+    grid-area: header-A;
+}
+
+main {
+    background-color: aquamarine;
+    grid-area: main-A;
+}
+
+footer {
+    background-color: rgb(215, 8, 233);
+    grid-area: footer-A;
+}
